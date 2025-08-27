@@ -1,2 +1,0 @@
-# Book Recommendation System
-This system demonstrates collaborative filtering using the k-Nearest Neighbors algorithm to provide personalized book recommendations. Built using traditional machine learning techniques popular in 2020, before the widespread adoption of deep learning approaches.
